@@ -29,16 +29,18 @@
 ## Cara Instalasi dan Menjalankan
 
 ### Clone Repository
-```bash
+```sh
 git clone https://github.com/dvnkrtk/uts-pemweb-123140036.git
+```
+
+```sh
 cd uts-pemweb-123140036
-```bash
+```
 
-```bash
+```sh
 npm install
-```bash
+```
 
-```bash
+```sh
 npm run dev
-```bash
-
+```
