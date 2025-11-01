@@ -1,9 +1,7 @@
 # Baca Nusantara
 
 **BacaNusantara** adalah aplikasi **perpustakaan digital** yang dirancang untuk memudahkan pengguna dalam mengakses dan membaca buku dalam format digital. Aplikasi ini menggabungkan kemudahan pencarian, pengelolaan daftar baca, serta penyaringan konten untuk memberikan pengalaman membaca digital yang efisien dan menyenangkan.
-**Baca Nusantara** memungkinkan pengguna untuk mencari buku dari **Open Library API** secara langsung tanpa memerlukan API key.  
-Pengguna dapat menelusuri buku berdasarkan **judul** atau **penulis**, melihat detail singkat, serta menambahkan buku ke **daftar bacaan pribadi (reading list)**.
-Aplikasi ini dikembangkan menggunakan **React.js** dengan tampilan modern berbasis **Tailwind CSS**, memastikan antarmuka yang ringan, responsif, dan mudah digunakan.
+**Baca Nusantara** memungkinkan pengguna untuk mencari buku dari **Open Library API** secara langsung tanpa memerlukan API key. Pengguna dapat menelusuri buku berdasarkan **judul** atau **penulis**, melihat detail singkat, serta menambahkan buku ke **daftar bacaan pribadi (reading list)**. Aplikasi ini dikembangkan menggunakan **React.js** dengan tampilan modern berbasis **Tailwind CSS**, memastikan antarmuka yang ringan, responsif, dan mudah digunakan.
 
 ---
 
